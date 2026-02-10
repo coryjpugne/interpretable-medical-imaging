@@ -1,5 +1,9 @@
 # Interpretable Medical Imaging
 
+## Example output
+
+![Model localization example](figures/bio_rel.jpg)
+
 Tools and experiments for evaluating **interpretability and localization reliability**
 in chest X-ray deep learning models.
 
